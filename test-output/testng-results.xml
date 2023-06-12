@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-12T00:24:31 IST" name="Default suite" finished-at="2023-06-12T00:25:11 IST" duration-ms="40125">
+    <groups>
+    </groups>
+    <test started-at="2023-06-12T00:24:31 IST" name="Default test" finished-at="2023-06-12T00:25:11 IST" duration-ms="40125">
+      <class name="test.standalone_EtoE">
+        <test-method signature="EtoE()[pri:0, instance:test.standalone_EtoE@55141def]" started-at="2023-06-12T00:24:31 IST" name="EtoE" finished-at="2023-06-12T00:25:11 IST" duration-ms="39782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EtoE -->
+      </class> <!-- test.standalone_EtoE -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
